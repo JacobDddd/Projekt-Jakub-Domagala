@@ -1,0 +1,12 @@
+theme_mode:
+  options:
+  - Jasny
+  - Ciemny
+  - Systemowy
+  selected: Ciemny
+window_size:
+  options:
+  - 1200x850
+  - 1000x700
+  - 800x600
+  selected: 800x600

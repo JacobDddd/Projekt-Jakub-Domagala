@@ -1,0 +1,399 @@
+Adrspach
+Angermuende
+Babiak
+Berlin Gesundbrunnen
+Berlin Hbf
+Berlin Lichtenberg
+Biała Główna
+Białystok
+Bielawa Zachodnia
+Bielsk Podlaski
+Bielsko
+Bogaczewo
+Bohumin
+Bojanowo
+Braniewo
+Brest
+Brodnica
+Brzeg
+Brzeg Dolny
+Budapest
+Bukowno
+Busko
+Bydgoszcz Główna
+Bydgoszcz Wschód
+Bytom
+Cadca
+Centralnyi
+Cesky Tesin
+Chałupki
+Chełm
+Chełmża
+Chocianów
+Chojna
+Chojnice
+Chojnów
+Chorzele
+Chorzów Batory
+Choszczno
+Chybie
+Cieszyn
+Czachówek Wschodni
+Czechowice
+Czeremcha
+Czersk
+Czerwieńsk
+Częstochowa
+Częstochowa Stradom
+Darłowo
+Dorohusk
+Drzewica
+Działdowo
+Dziedzice
+Dzierżoniów Śląski
+Dąbrowa Górnicza Ząbkowice
+Dębica
+Dęblin
+Elbląg
+Ełk
+Forst Lausitz
+Fosowskie
+Frankfurt/Oder
+Frydek
+Gałkówek
+Gdańsk Główny
+Gdańsk Port Lotniczy
+Gdańsk Wrzeszcz
+Gdańsk Śródmieście
+Gdynia Główna
+Gierałtów
+Giżycko
+Gliwice
+Gniezno
+Goerlitz
+Goleniów
+Goleszów
+Gorlice
+Gorzów Wielkopolski
+Gołańcz
+Grodno
+Grodzisk Mazowiecki
+Grudziądz
+Gryfice
+Gryfino
+Gryfów Śląski
+Guben
+Gubin
+Góra Kalwaria
+Góra Śląska
+Głogów
+Głowno
+Głuchołazy
+Głuchołazy Miasto
+Hajnówka
+Harrachov
+Hel
+Herby Nowe
+Herby Stare
+Hrebenne
+Hrubieszów Miasto
+Hurko
+Inowrocław
+Inowrocław Rąbinek
+Iława Główna
+Jabłonowo Pomorskie
+Jagodin
+Jarocin
+Jarosław
+Jasło
+Jaworzyna Śląska
+Jedlina
+Jelcz
+Jelenia Góra
+Kaliska Kujawskie
+Kalisz Pomorski
+Kalwaria Zebrzydowska Lanckorona
+Kamieniec Ząbkowicki
+Kamienna
+Kamień Pomorski
+Katowice
+Katowice Ligota
+Keleti
+Kielce Główne
+Kietz
+Kluczbork
+Knurów
+Kobierzyce
+Koeln Hbf
+Koluszki
+Koniecpol
+Konin
+Kopalnia
+Korenov
+Korsze
+Kostrzyn
+Koszalin
+Kozłów
+Kołobrzeg
+Kościerzyna
+Koźle
+Kraków Batowice
+Kraków Główny
+Kraków Lotnisko
+Kraków Podgórze
+Kraków Płaszów
+Kralovec
+Krosnowice Kłodzkie
+Krotoszyn
+Krynica
+Krzeszowice
+Krzyż
+Kustrin
+Kutno
+Kuźnica Białostocka
+Kwidzyn
+Kędzierzyn
+Kępno
+Kłodzko Główne
+Kłodzko Miasto
+Laskowice
+Laskowice Pomorskie
+Legionowo
+Legionowo Piaski
+Legnica
+Leszczyny
+Leszno
+Letohrad
+Lichkov
+Lipowa Tucholska
+Loecknitz
+Lubawka
+Lubań Śląski
+Lubin
+Lublin Airport
+Lublin Główny
+Lubliniec
+Luebeck Hbf
+Lądek
+Lębork
+Maksymilianowo
+Malbork
+Małdyty
+Małkinia
+Medyka
+Medzilaborce
+Mezimesti
+Miastko
+Mielec
+Mielno Koszalińskie
+Mikołajów
+Mistek
+Międzylesie
+Międzyrzecz
+Mockava
+Modlin
+Mogilno
+Moskva Belorusskaia
+Muszyna
+Mysłowice
+Mścice
+Nasielsk
+Neubrandenburg
+Nice Ville
+Nowy Sącz
+Nysa
+Obersdorf
+Oborniki Śląskie
+Oleśnica
+Oleśnica Rataje
+Olsztyn Gutkowo
+Olsztyn Główny
+Opalenica
+Opoczno
+Opoczno Południe
+Opole Główne
+Osie
+Ostrowiec Świętokrzyski
+Ostrołęka
+Ostrów Wielkopolski
+Oława
+Oświęcim
+Paczyna
+Padew
+Parczew Kolejowa
+Pardubice Hlavni Nadrazi
+Pilawa
+Piotrków Trybunalski
+Pisz
+Piła Główna
+Plavec
+Podolinec
+Poprad
+Port Lotniczy Szczecin Goleniów
+Powodowo
+Poznań Główny
+Praha Hlavni Nadrazi
+Pruszcz Gdański
+Przemyśl Główny
+Przeworsk
+Pszczyna
+Puławy Miasto
+Pyrzowice Lotnisko
+Płock
+Racibórz
+Radom Główny
+Rava Ruskaia
+Rawicz
+Reda
+Rejowiec
+Rokitki
+Rudna Gwizdanów
+Runowo Pomorskie
+Rybnik
+Rzepin
+Rzeszów Główny
+Sandomierz
+Sanok
+Siedlce
+Siemianówka
+Sieradz
+Sierpc
+Sitkówka Nowiny
+Skalite
+Skarżysko
+Skawina
+Skierniewice
+Skoczów
+Sokółka
+Somonino
+Sosnowiec Główny
+Stalowa Wola Charzewice
+Stalowa Wola Południe
+Stalowa Wola Rozwadów
+Stargard
+Stronie Śląskie
+Strumień
+Strzelce Opolskie
+Strzelin
+Stróże
+Sucha Beskidzka
+Sucha Beskidzka Zamek
+Suwałki
+Syców
+Szastarka
+Szczecin Dąbie
+Szczecin Gumieńce
+Szczecin Główny
+Szczecinek
+Szczytno
+Szklarska Poręba
+Szklarska Poręba Górna
+Szlachta
+Szymany Lotnisko
+Sędziszów
+Sędzisław
+Sławno
+Słupsk
+Tantow
+Tarnowskie Góry
+Tarnów
+Tatry
+Tczew
+Terespol
+Tomaszów Mazowiecki
+Toruń Główny
+Toruń Wschodni
+Trakiszki
+Trzebinia
+Trzebnica
+Tuchola
+Tunel
+Tuplice
+Tychy
+Tychy Lodowisko
+Tłuszcz
+Uherce
+Unisław Pomorski
+Usti Nad Orlici
+Ustka
+Ustka Uroczysko
+Ustrzyki Dolne
+Wadowice
+Waliły
+Warszawa Centralna
+Warszawa Gdańska
+Warszawa Lotnisko Chopina
+Warszawa Wschodnia
+Warszawa Zachodnia
+Warszawa Zachodnia Peron 9
+Warszawa Śródmieście
+Wałbrzych Główny
+Wejherowo
+Wieliczka Rynek
+Wieliszew
+Wieluń
+Wierzbno
+Wierzchucin
+Wisła Głębce
+Wodzisław Śląski
+Wolsztyn
+Wołów
+Wrocław Główny
+Wrocław Psie Pole
+Wrocław Wojnów
+Września
+Wschowa
+Wysoka Kamieńska
+Wyszków
+Wągrowiec
+Węgliniec
+Władysławowo
+Włoszczowa
+Włoszczowa Północ
+Zagórz
+Zajezierze Koło Dęblina
+Zamość
+Zamość Wschód
+Zator
+Zawiercie
+Zbąszynek
+Zdrój
+Zduńska Wola Karsznice
+Zebrzydowice
+Zegrze Południowe
+Zgierz
+Zgorzelec
+Zielona Góra Główna
+Zielonka
+Zilina
+Zubki Białostockie
+Zwardoń
+Zwierzyniec
+Łapy
+Łeba
+Łowicz Główny
+Łowicz Przedmieście
+Łuków
+Łupków
+Łódź Chojny
+Łódź Fabryczna
+Łódź Kaliska
+Łódź Marysin
+Łódź Niciarniana
+Łódź Olechów Wschód
+Łódź Widzew
+Ścinawa
+Śniadowo
+Środa Śląska
+Świdnica Miasto
+Świdnica Przedmieście
+Świebodzin
+Świeradów
+Świnoujście
+Świnoujście Port
+Żagań
+Żakowice
+Żary
+Żmigród
+Żory
+Żywiec
